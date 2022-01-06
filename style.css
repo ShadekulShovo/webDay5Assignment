@@ -144,21 +144,28 @@ body {
   width: 100%;
 }
 
+.goals2022 h1 {
+  text-align: center;
+  background-color: yellowgreen;
+}
+
 .mythoughts {
   display: flex;
 }
 
-/* .mythoughts h1 {
-  text-align: center;
-} */
-
-.newYearResolution {
+.newYearResolutions {
   width: 50%;
 }
 
-/* .resolution {
+.resolution {
   width: 100%;
-} */
+}
+
+.resolution h2 {
+  text-align: left;
+  background-color: wheat;
+  color: #f44336;
+}
 
 .skills li {
   font-size: 20px;
